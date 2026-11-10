@@ -1,0 +1,6 @@
+{
+  "name": "Rei",
+  "description": "100% local-first executive second brain, relational context engine, and tactical task manager powered by on-device Gemini Nano (AICore) and Room FTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

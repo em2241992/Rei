@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold geometric diamond/neural hub silhouette centered within 66dp safe zone -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M54,24 L80,39 L80,69 L54,84 L28,69 L28,39 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,32 L72,42.5 L72,65.5 L54,76 L36,65.5 L36,42.5 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,40 L64,46 L64,62 L54,68 L44,62 L44,46 Z" />
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M54,47 L59,50 L59,58 L54,61 L49,58 L49,50 Z" />
+</vector>

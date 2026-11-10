@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rei</string>
+    <string name="tab_rei_command">Rei Command</string>
+    <string name="tab_second_brain">Second Brain</string>
+    <string name="tab_meeting_prep">Meeting Prep</string>
+    <string name="tab_comms_strategy">Comms &amp; Strategy</string>
+    <string name="engine_aicore_nano">S25U AICore Nano</string>
+    <string name="engine_preview_sim">Preview Sim Engine</string>
+    <string name="where_was_i_button">Where Was I?</string>
+    <string name="quick_dump_placeholder">Dump a voice note, meeting recap, or 1-line thought…</string>
+    <string name="action_organize">Organize</string>
+    <string name="action_park_it">Park It</string>
+    <string name="action_shrink_it">Shrink It</string>
+    <string name="action_breadcrumb">Breadcrumb</string>
+    <string name="action_draft_it">Draft It</string>
+    <string name="action_99_check">99% Check</string>
+    <string name="hero_one_thing_now">1 THING NOW</string>
+    <string name="search_second_brain_hint">FTS5 Instant Search across cards, outlines &amp; tasks…</string>
+    <string name="vip_context_rules">VIP Context &amp; Learned Rules</string>
+    <string name="backup_restore_bridge">Local Backup &amp; Restore</string>
+</resources>
