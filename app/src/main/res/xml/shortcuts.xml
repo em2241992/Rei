@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="quick_dump_stash"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:shortcutShortLabel="@string/shortcut_quick_dump_short"
+        android:shortcutLongLabel="@string/shortcut_quick_dump_long">
+        <intent
+            android:action="com.emaratta.rei.ACTION_QUICK_DUMP"
+            android:targetPackage="com.emaratta.rei"
+            android:targetClass="com.emaratta.rei.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="where_was_i"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:shortcutShortLabel="@string/shortcut_where_was_i_short"
+        android:shortcutLongLabel="@string/shortcut_where_was_i_long">
+        <intent
+            android:action="com.emaratta.rei.ACTION_WHERE_WAS_I"
+            android:targetPackage="com.emaratta.rei"
+            android:targetClass="com.emaratta.rei.MainActivity" />
+    </shortcut>
+</shortcuts>

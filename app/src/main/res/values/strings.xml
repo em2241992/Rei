@@ -18,4 +18,9 @@
     <string name="search_second_brain_hint">FTS5 Instant Search across cards, outlines &amp; tasks…</string>
     <string name="vip_context_rules">VIP Context &amp; Learned Rules</string>
     <string name="backup_restore_bridge">Local Backup &amp; Restore</string>
+    <string name="shortcut_quick_dump_short">Quick Stash</string>
+    <string name="shortcut_quick_dump_long">Quick Dump / Stash Thought</string>
+    <string name="shortcut_where_was_i_short">Where Was I?</string>
+    <string name="shortcut_where_was_i_long">Where Was I? Context Reload</string>
+    <string name="share_to_rei_label">Stash in Rei</string>
 </resources>

@@ -1,6 +1,0 @@
-{
-  "summary": "Comprehensive UI/UX refactoring plan for Rei to eliminate visual clutter, prevent text truncation, and reclaim vertical screen space across the TopAppBar, slim <56dp Segmented Energy Bar, horizontal Filter Chip strip + Flat Unified Task List, spacious 1 Thing Now Hero Card, single-row Floating Quick-Capture Bar with inline slide-up helper tray, and short 4-tab Bottom Navigation labels with calm tonal elevation surfaces.",
-  "updatedAt": "2026-11-06T22:04:42.170000155Z",
-  "requestFeedback": true,
-  "userFacing": true
-}
